@@ -1,0 +1,521 @@
+
+@media screen and (min-width: 991px) and (max-width: 1199px) {
+
+  .menu_con_main {
+    width: 100% !important;
+  }
+  .alignment {
+    width: 992px !important;
+    margin: auto  !important;
+  }
+  .story_img {
+    width: 265px !important;
+  }
+  .story_content {
+    width: 300px !important;
+  }
+  
+  .about_part {
+    padding: 80px 0px !important;
+  }
+  
+  .photo_devider {
+    padding: 20px 0px 30px !important;
+  }
+  #story {
+    padding: 20px 0px !important;
+  }
+  .we_married {
+    padding: 20px 0px !important;
+  }
+  
+  .sec_title p {
+    width: 600px !important;
+  }
+  .where_banner {
+    width: 945px !important;
+    margin: auto !important;
+  }
+  .where_des {
+    width: 50% !important;
+  }
+  .where_content {
+    width: 430px !important;
+  }
+  .where_inner {
+    justify-content: center !important;
+  }
+  .where_maps {
+    height: 610px !important;
+  }
+  .gallery_item {
+    width: 260px !important;
+    border: 17px solid white !important;
+  }
+  .gallery_flex {
+    justify-content: center !important;
+    gap: 30px !important;
+  }
+  .event_item {
+    width: 440px !important;
+  }
+  .event_inner {
+    justify-content: center !important;
+  }
+  
+  .img_devider {
+    height: 450px !important;
+  }
+  .photo_devide_one {
+    height: 400px !important;
+  }
+  .img_divider {
+    height: 400px !important;
+  }
+  .groomsmen_flex {
+    justify-content: center !important;
+    gap: 30px !important;
+  }
+  .groomsmen_box {
+    width: 300px !important;;
+  }
+  .groomsmen_item {
+    width: 88% !important;;
+  }
+  .image_divider {
+    height: 400px !important;
+  }
+  .gift_item {
+    width: 215px !important;
+    margin: auto !important;
+  }
+  .form_rspv {
+    width: 465px !important;
+  }
+  .form_comment {
+    width: 450px !important;;
+  }
+  .rsvp_form_inner {
+    justify-content: center !important;
+  }
+  .groomsmen_info {
+    width: 100% !important;
+  }
+  }
+  
+  @media screen and (min-width: 768px) and (max-width: 991px){
+    .menu_con_main.active{
+      visibility: hidden;
+      opacity: 0;
+  }
+  .menu_bars {
+    position: absolute !important;
+    right: 50px !important;
+    font-size: 27px !important;
+    top: 30px;
+    display: block !important;
+  }
+  .menu_part {
+    background: #fff !important;
+  }
+  .love_icons {
+    position: absolute !important;
+    left: 30px !important;
+    top: 4px;
+    display: block !important;
+  }
+  
+  .menu_con_main ul {
+    display: block !important;
+    margin-top: 10px;
+    width: 100% !important;
+    padding: 10px 0px;
+    height: 200px;
+  }
+  .menu_con_main ul li:hover {
+    background: #f0394d;
+  }
+  .menu_con_main ul li:hover a {
+    color: white !important;
+  }
+  .menu_con_main {
+    position: absolute !important;
+    z-index: 111;
+    top: 88px;
+    left: 0px;
+    width: 100% !important;
+    background: #fff;
+    overflow: auto;
+  }
+  .menu_part {
+    position: relative !important;
+  }
+  .menu_con_main .items i {
+    display: none !important;
+  }
+  .logo_item {
+    display: none !important;
+  }
+  .menu_con_main ul li {
+    padding: 15px 30px;
+    border-bottom: solid thin #f4f2f2;
+  }
+  .menu_con_main ul li:nth-child(even) {
+    display: none;
+  }
+  
+  .menu_con_main ul {
+    display: block !important;
+  }
+  .menu_con_main {
+    position: absolute !important;
+    z-index: 111;
+  }
+  .menu_part {
+    position: relative !important;
+  }
+    .about_con_main {
+        display: block !important;
+      }
+      .alignment {
+        width: 768px !important;
+      }
+      .hearth_love {
+        display: none !important;
+      }
+      .photo_devider {
+        padding: 0px !important;
+      }
+      .img_devider {
+        height: 380px !important;
+      }
+      #story {
+        padding: 120px 0px 0px !important;
+      }
+      .sec_title p {
+        width: 600px !important;
+      }
+      .story_item {
+        flex-direction: column !important;
+      }
+      .story_img {
+        width: 735px !important;
+      }
+      .story_date {
+        bottom: 56px !important;
+      }
+      .story_content {
+        width: 100% !important;
+      }
+      .story_content h3,p {
+        text-align: center !important;
+      }
+      .photo_devide_one {
+        height: 400px !important;
+      }
+      
+  
+  .where_fivety {
+    border: none !important;
+  }
+  .where_banner {
+    flex-direction: column !important;
+    width: 730px !important;
+    margin: auto !important;
+    line-height: 40px;
+  }
+  .where_inner {
+    flex-direction: column !important;
+  }
+  .where_content {
+    width: 100% !important;
+  }
+  
+  .where_des {
+    width: 95% !important;
+    margin: auto !important;
+  }
+  .where_content p {
+    text-align: unset !important;
+  }
+  .where_maps {
+    width: 95% !important;
+    margin: auto !important;
+  }
+  .gallery_flex {
+    flex-direction: column !important;
+    margin-bottom: 0 !important;
+  }
+  .gallery_item {
+    width: 85% !important;
+    margin-bottom: 40px !important;
+  }
+  .hero_con.center_con p {
+    width: 675px !important;
+  }
+  .event_item {
+    width: 310px !important;
+  }
+  .event_inner {
+    justify-content: center !important;
+  }
+  .event_info p {
+    text-align: start !important;
+  }
+  .img_divider {
+    height: 400px !important;
+  }
+  
+  .groomsmen_flex {
+    flex-direction: column !important;
+    width: 100% !important;
+  }
+  .groomsmen_box {
+    width: 95% !important;
+    margin-bottom: 60px;
+  }
+  .groomsmen_item {
+    width: 95% !important;
+  }
+  .image_divider {
+    height: 400px !important;
+  }
+  .rsvp_form_inner {
+    flex-direction: column !important;
+    justify-content: center !important;
+  }
+  .form_rspv {
+    width: 96% !important;
+    margin: auto !important;
+  }
+  .form_comment {
+    width: 96% !important;
+    margin: auto !important;
+  }
+  .center_ft {
+    left: 36.5% !important;
+  }
+  #groomsmen {
+    padding: 0 !important;
+  }
+  }
+  
+@media screen and (max-width: 767.98px){
+  .menu_con_main.active{
+    visibility: hidden;
+    opacity: 0;
+}
+  .menu_bars {
+    position: absolute !important;
+    right: 29px !important;
+    font-size: 27px !important;
+    top: 30px;
+    display: block !important;
+  }
+  .menu_part {
+    background: #fff !important;
+  }
+  .love_icons {
+    position: absolute !important;
+    left: 8px !important;
+    top: 4px;
+    display: block !important;
+  }
+  
+  .menu_con_main ul {
+    display: block !important;
+    margin-top: 10px;
+    width: 100% !important;
+    padding: 10px 0px;
+    height: 200px;
+  }
+  .menu_con_main ul li:hover {
+    background: #f0394d;
+  }
+  .menu_con_main ul li:hover a {
+    color: white !important;
+  }
+  .menu_con_main {
+    position: absolute !important;
+    z-index: 111;
+    top: 88px;
+    left: 0px;
+    width: 100% !important;
+    background: #fff;
+    overflow: auto;
+  }
+  .menu_part {
+    position: relative !important;
+  }
+  .menu_con_main .items i {
+    display: none !important;
+  }
+  .logo_item {
+    display: none !important;
+  }
+  .menu_con_main ul li {
+    padding: 15px 30px;
+    border-bottom: solid thin #f4f2f2;
+    cursor: pointer;
+  }
+  .menu_con_main ul li:nth-child(even) {
+    display: none;
+  }
+  
+  .menu_con_main ul {
+    display: block !important;
+  }
+  .menu_con_main {
+    position: absolute !important;
+    z-index: 111;
+  }
+  .menu_part {
+    position: relative !important;
+  }
+  .about_con_main {
+    flex-direction: column !important;
+    width: 95% !important;
+    margin: auto !important;
+  }
+  
+  .hearth_love {
+    display: none !important;
+  }
+  .alignment {
+    width:  100% !important;
+    margin: auto !important;
+  }
+  
+  .photo_devider {
+    padding: 0 !important;
+  }
+  .img_devider {
+    height: 400px !important;
+  }
+  .sec_title {
+    width: 90% !important;
+    margin: auto !important;
+  }
+  .sec_title p {
+    width: 100% !important;
+  }
+  .story_item {
+    flex-direction: column !important;
+  }
+  .story_img {
+    width: 100% !important;
+  }
+  .story_date {
+    bottom: 56px !important;
+  }
+  .arrow_left {
+    display: none !important;
+  }
+  .arrow_right {
+    display: none !important;
+  }
+  .story_content {
+    width: 100% !important;
+    text-align: center !important;
+  }
+  .verticle_line {
+    display: none !important;
+  }
+  .we_married {
+    padding: 0 !important;
+  }
+  .photo_devide_one {
+    height: 400px !important;
+  }
+  .where_banner {
+    flex-direction: column !important;
+    line-height: 40px !important;
+  }
+  .where_fivety {
+    border: none !important;
+  }
+  .where_banner {
+    width: 95% !important;
+    margin: auto !important;
+  }
+  .where_inner {
+    flex-direction: column !important;
+  }
+  .where_des {
+    padding: 0px 20px;
+    width: 100% !important;
+  }
+  .where_maps {
+    width: 92% !important;
+    margin: auto !important;
+  }
+  .hero_con.center_con {
+    width: 88% !important;
+    margin: auto !important;
+  }
+  .hero_con.center_con p {
+    width: 100% !important;
+  }
+  .hero_con h1 {
+    width: 93% !important;
+    margin: 35px auto !important;
+  }
+  .gallery_flex {
+    flex-direction: column !important;
+    margin: 0px !important;
+  }
+  .gallery_item {
+    width: 88% !important;
+    margin-bottom: 40px !important;
+  }
+  .event_inner {
+    flex-direction: column !important;
+  }
+  .event_item {
+    width: 90% !important;
+  }
+  .groomsmen_flex {
+    flex-direction: column !important;
+  }
+  .groomsmen_box {
+    width: 90% !important;
+    margin: 20px 0px;
+  }
+  .groomsmen_item {
+    width: 91% !important;
+  }
+  .hero_part {
+    height: 500px !important;
+  }
+  .groomsmen_info {
+    width: 100% !important;
+  }
+  .photo_divider_4 {
+    padding: 0 !important;
+  }
+  .gift_item {
+    width: 160px !important;
+  }
+  .gift_item img {
+    width: 100% !important;
+  }
+  .rsvp_form_inner {
+    flex-direction: column !important;
+  }
+  .form_rspv {
+    width: 95% !important;
+    margin: auto !important;
+  }
+  .form_comment {
+    width: 95% !important;
+    margin: auto !important;
+  }
+  .center_ft.animation.fadeInUp.animated {
+    left: 31% !important;
+  }
+  .where_content {
+    width: 100% !important;
+  }
+
+}
+  /* @media screen and(max-width: 576px){}; */
